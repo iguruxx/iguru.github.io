@@ -4,7 +4,7 @@
 
 <!-- wp:paragraph -->
 <p>Η ιστοσελίδα <a href="https://iguru.gr">iGuRu.gr</a> σαν site με τεχνολογικά νέα, ξεκίνησε την λειτουργία της το <strong>Φεβρουάριο του 2012</strong>.</p>
-<p>[su_note note_color="#070156" text_color="#ffffff" radius="2"]We do not assume you are stupid... Since 2012.[/su_note]</p>
+<p>We do not assume you are stupid... Since 2012.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -26,7 +26,3 @@
 <!-- wp:paragraph -->
 <p>Κατά καιρούς γράφουν και άλλοι, αν έχουν κάτι να γράψουν, και <strong>αφού εγκριθεί</strong> από την βασική δυάδα.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:shortcode -->
-<p>[su_divider top="no" divider_color="#727272" size="1" margin="25"][/su_divider]</p>
-<!-- /wp:shortcode -->
