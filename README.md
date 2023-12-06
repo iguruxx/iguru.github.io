@@ -4,7 +4,7 @@
 
 <!-- wp:paragraph -->
 <p>Η ιστοσελίδα <a href="https://iguru.gr">iGuRu.gr</a> σαν site με τεχνολογικά νέα, ξεκίνησε την λειτουργία της το <strong>Φεβρουάριο του 2012</strong>.</p>
-<p><strong>We do not assume you are stupid... Since 2012.</strong>strong></p>
+<p><strong>We do not assume you are stupid... Since 2012.</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
